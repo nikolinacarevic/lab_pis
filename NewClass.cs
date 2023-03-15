@@ -6,5 +6,6 @@ namespace lab_pis
 {
     class NewClass
     {
+        //komentar
     }
 }
